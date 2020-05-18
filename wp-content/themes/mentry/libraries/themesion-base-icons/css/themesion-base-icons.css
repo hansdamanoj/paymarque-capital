@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'themesion-base-icons';
-  src: url('../font/themesion-base-icons.eot?49947405');
-  src: url('../font/themesion-base-icons.eot?49947405#iefix') format('embedded-opentype'),
-       url('../font/themesion-base-icons.woff2?49947405') format('woff2'),
-       url('../font/themesion-base-icons.woff?49947405') format('woff'),
-       url('../font/themesion-base-icons.ttf?49947405') format('truetype'),
-       url('../font/themesion-base-icons.svg?49947405#themesion-base-icons') format('svg');
+  src: url('../font/themesion-base-icons.eot');
+  src: url('../font/themesion-base-icons.eot#iefix') format('embedded-opentype'),
+       url('../font/themesion-base-icons.woff2') format('woff2'),
+       url('../font/themesion-base-icons.woff') format('woff'),
+       url('../font/themesion-base-icons.ttf') format('truetype'),
+       url('../font/themesion-base-icons.svg#themesion-base-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
