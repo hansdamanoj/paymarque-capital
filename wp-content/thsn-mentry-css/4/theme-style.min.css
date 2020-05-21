@@ -1546,10 +1546,10 @@ body.wpb-js-composer .vc_tta.vc_general.vc_tta-color-black.vc_tta-style-outline 
 		display: flex
 	}
 	.thsn-header-style-2 .thsn-header-link {
-		font-size: 15px;
-		position: relative;
-		padding-left: 100px;
-		margin-left: 15px
+	    font-size: 15px;
+	    position: relative;
+	    padding-left: 90px;
+	    margin-left: 0px;
 	}
 	.thsn-header-style-2 .thsn-header-link,
 	.thsn-header-style-2 .thsn-header-link a:hover {
@@ -1571,7 +1571,7 @@ body.wpb-js-composer .vc_tta.vc_general.vc_tta-color-black.vc_tta-style-outline 
 		color: #006efd;
 		font-size: 50px;
 		position: absolute;
-		left: 20px;
+		left: 10px;
 		top: 50%;
 		-webkit-transform: translateY(-50%);
 		-ms-transform: translateY(-50%);
